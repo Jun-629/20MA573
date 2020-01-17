@@ -6,3 +6,4 @@ by Jungang Bu
 
 ## In class Practice
 - [Proj_1](src/Project_1.ipynb)
+- [Proj_2](src/Project_2.ipynb)
