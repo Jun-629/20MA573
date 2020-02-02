@@ -5,7 +5,8 @@ by Jungang Bu
 - [Hw_1](src/hw1_grid_random_walk.ipynb)
 - [Hw_2/1](src/Hw2_finite_difference.ipynb)
 - [Hw_2/2](src/Hw2_pdf.ipynb)
-# the contents shown in the github may have some mistakes in displaying, mayby you can try by clicking "open in colab"
+- [Hw_3/2](src/Hw3_bsm_price_change.ipynb)
+# the contents shown in the github may have some mistakes in displaying, maybe you can try by clicking "open in colab"
 
 ## In class Practice
 - [Proj_1](src/Project_1.ipynb)
