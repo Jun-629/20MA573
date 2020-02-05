@@ -5,6 +5,7 @@ by Jungang Bu
 - [Hw_1](src/hw1_grid_random_walk.ipynb)
 - [Hw_2/1](src/Hw2_finite_difference.ipynb)
 - [Hw_2/2](src/Hw2_pdf.ipynb)
+- [Hw_3/1](src/Hw3_payoff_structure_of_option_combinations.ipynb)
 - [Hw_3/2](src/Hw3_bsm_price_change.ipynb)
 - [Hw_3/3](src/Hw3_Monotonicity_in_volatility.ipynb)
 - [Hw_3/4](src/Hw3_Explicit_bsm_greeks.ipynb)
