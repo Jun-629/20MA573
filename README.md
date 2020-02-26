@@ -13,7 +13,9 @@ by Jungang Bu
 - [Hw_4/2 Bsm Calibration](src/Hw4_BSM_Calibration.ipynb)
 - [Hw_5/1&2 Monte Carlo](src/Hw5_Monte_Carlo.ipynb)
 - [Hw_6/1 Brownian Motion Path](src/Hw6_BM1D.ipynb)
+- [Hw_6/1 Pseudocode](src/Hw6_Pseudocode.pdf)
 - [Hw_6/2 Geometric Brownian Motion](src/Hw6_Geometric_Brownian_Motion.ipynb)
+
 
 
 
