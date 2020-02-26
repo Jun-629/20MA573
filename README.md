@@ -11,9 +11,9 @@ by Jungang Bu
 - [Hw_3/5 Implied Volatility](src/Hw3_implied_volatility.ipynb)
 - [Hw_4/1 Monotonicity in Volatility](src/Hw4_Monotonicity_in_volatility.ipynb)
 - [Hw_4/2 Bsm Calibration](src/Hw4_BSM_Calibration.ipynb)
-- [Hw5/1&2 Monte Carlo](src/Hw5_Monte_Carlo.ipynb)
+- [Hw_5/1&2 Monte Carlo](src/Hw5_Monte_Carlo.ipynb)
 
-- [Hw6/2 Geometric Brownian Motion](src/Hw6_Geometric Brownian Motion.ipynb)
+- [Hw_6/2 Geometric Brownian Motion](src/Hw6_Geometric Brownian Motion.ipynb)
 
 # The contents shown in the github may have some mistakes in displaying, maybe you can try by clicking "open in colab"
 
