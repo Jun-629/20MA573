@@ -17,9 +17,8 @@ by Jungang Bu
 - [Hw_6/2 Geometric Brownian Motion](src/Hw6_Geometric_Brownian_Motion.ipynb)
 - [Hw_7/1 Pseudocode](src/Hw7_Pseudocode.pdf)
 - [Hw_7/2 CEV](src/Hw7_CEV.ipynb)
-- [Hw_8 Record:](src/Hw8_1.ipynb)
-- [Hw_8_Github:](src/Hw8_2.ipynb) - [(iii):](src/(iii).pdf)
-- [Hw_8/question(iii):](src/(iii).pdf)
+- [Hw_8 Record_1](src/Hw8_1.ipynb)
+- [Hw_8](src/Hw8_2.ipynb) - [Question (iii)](src/(iii).pdf)
 
 
 
