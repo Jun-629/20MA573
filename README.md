@@ -21,7 +21,7 @@ by Jungang Bu
 - [Hw_8](src/Hw8_2.ipynb) - [Uniqueness](src/Uniqueness.pdf)- [Question (iii)](src/(iii).pdf)
 - [Hw_9](src/Hw9.ipynb)
 - [Hw_10/1 Stochastic Approximation](src/Hw10_SA.ipynb)
-- [Hw 10/2 Markov Reward Process](src/Hw10_MRP.ipynb)
+- [Hw_10/2 Markov Reward Process](src/Hw10_MRP.ipynb)
 
 
 
