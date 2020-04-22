@@ -22,7 +22,7 @@ by Jungang Bu
 - [Hw_9](src/Hw9.ipynb)
 - [Hw_10/1 Stochastic Approximation](src/Hw10_SA.ipynb)
 - [Hw_10/2 Markov Reward Process](src/Hw10_MRP.ipynb)
-- [Hw_11](src/Hw11_Importance_Sampling.ipynb)
+- [Hw_11 Importance Sampling](src/Hw11_IS.ipynb)
 
 
 
